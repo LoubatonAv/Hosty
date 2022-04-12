@@ -18,8 +18,9 @@ The project taught me how to work as a part of a team effeciently under a deadli
 * MongoDB
 
 
-### About
-This project was developed by me together with 2 other talented students, however, I took some time after the course to improve learn and add more functionality and responsiveness to the app eager and motivated to see what more can I achieve and see the final result of a big project.
+### About the project and myself
+This project was developed by me together with 2 other talented students, however, I took some time after the course to improve ,learn ,add more functionality and responsiveness to the app.
+I was eager ,motivated to see what more can I achieve and learn from this project and eventually see the result of a big project.
 
 
 ### Why Airbnb?
