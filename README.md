@@ -25,8 +25,8 @@ I was eager ,motivated to see what more can I achieve and learn from this projec
 
 ### Why Airbnb?
 
-I wanted to learn and deal with the challenging aspect of a big website and it's components.
-The pixel perfect responsiveness and animations were also great practice for me to try and achieve a pixel perfect website along with websockets that allow online updating statuses between a host and a user.
+I wanted to learn and deal with the challenging aspect of a big website and its components.
+The design responsiveness and animations were also great practice for me to try and achieve a pixel perfect website along with websockets that allow online updating statuses between a host and a user also working with data-bases.
 
 ### Desktop:
 ![GitHub Logo](https://i.imgur.com/yAqRZzu.jpg)
