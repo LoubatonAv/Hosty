@@ -32,4 +32,4 @@ The pixel perfect responsiveness and animations were also great practice for me 
 ![GitHub Logo](https://i.imgur.com/yAqRZzu.jpg)
 
 ### Mobile: 
-![GitHub Logo](https://imgur.com/a/4ivuLtp)
+![GitHub Logo](https://i.imgur.com/kW1wkzg.jpg)
