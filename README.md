@@ -9,7 +9,7 @@ A web app inspired by Airbnb for renting sites for vacation.
 ### What i've learned?
 The project taught me how to work as a part of a team effeciently under a deadline and new ways of coding diifferent components and functions (along with many new features,hooks,functions etc..)
 
-### Technologies used
+### Technologies used:
 
 * ReactJS
 * NodeJS
@@ -18,7 +18,7 @@ The project taught me how to work as a part of a team effeciently under a deadli
 * MongoDB
 
 
-### About the project and myself
+### About the project and myself:
 This project was developed by me together with 2 other talented students, however, I took some time after the course to improve ,learn ,add more functionality and responsiveness to the app.
 I was eager ,motivated to see what more can I achieve and learn from this project and eventually see the result of a big project.
 
@@ -28,8 +28,8 @@ I was eager ,motivated to see what more can I achieve and learn from this projec
 I wanted to learn and deal with the challenging aspect of a big website and it's components.
 The pixel perfect responsiveness and animations were also great practice for me to try and achieve a pixel perfect website along with websockets that allow online updating statuses between a host and a user.
 
-### Desktop :
+### Desktop:
 ![GitHub Logo](https://i.imgur.com/yAqRZzu.jpg)
 
-### Mobile : 
+### Mobile: 
 ![GitHub Logo](https://i.imgur.com/yAqRZzu.jpg)
