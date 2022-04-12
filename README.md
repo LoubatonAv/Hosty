@@ -1,4 +1,5 @@
-# Hosty
+![airbnb](https://user-images.githubusercontent.com/95040507/163007003-0fe9ea19-4452-4dc7-a739-9aa2094d3c3a.png) # Hosty
+
 
 |[Click here to view the website](https://hosty-bnb-webapp.herokuapp.com/)|
 |---|
