@@ -1,5 +1,8 @@
 # Hosty
 
+|[Click here to view the website](https://hosty-bnb-webapp.herokuapp.com/)|
+|---|
+
 The final project made during the Coding Academy fullstack bootcamp.
 A web app inspired by Airbnb for renting sites for vacation.
 
@@ -13,10 +16,6 @@ The project taught me how to work as a part of a team effeciently under a deadli
 * SASS
 * Express
 * MongoDB
-
-
-|[Click here to view the website](https://hosty-bnb-webapp.herokuapp.com/)|
-|---|
 
 
 ### About
