@@ -1,10 +1,10 @@
 const orderService = require('./order.service.js');
-const logger = require('../../services/logger.service')
-
+const logger = require('../../services/logger.service');
 
 async function getOrders(req, res) {
   try {
     let filterBy = req.query;
+    console.log('filterBzzy:', filterBy);
 
     // filterBy = JSON.parse(filterBy);
     const orders = await orderService.query(filterBy);
@@ -34,7 +34,7 @@ async function addOrder(req, res) {
     console.log(req.session.user);
     const buyer = req.session.user;
     const addedOrder = await orderService.add(order, buyer);
-    console.log(addedOrder);
+    console.log('aaaa', addedOrder);
     res.json(addedOrder);
   } catch (err) {
     logger.error('Failed to add order', err);

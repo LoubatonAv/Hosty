@@ -12,8 +12,7 @@ class _LoginSignupModal extends React.Component {
     isSignup: false,
   };
 
-  responseGoogle = (response) => {
-  };
+  responseGoogle = (response) => {};
 
   clearState = () => {
     const clearTemplate = {

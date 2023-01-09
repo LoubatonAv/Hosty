@@ -10,15 +10,16 @@ export const GuestTrips = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    dispatch(loadOrders({ userId: user._id }));
+    dispatch(loadOrders({ userId: user?._id }));
   }, []);
+  console.log('orders:', orders);
 
   if (!user) return <h1>Please log-in first!</h1>;
-  if (!orders) return <h1>an error has accured, please try later</h1>
+  if (!orders) return <h1>an error has accured, please try later</h1>;
   if (orders.length === 0) return <h1>No Trips to show</h1>;
   return (
-    <section className="trips">
-      <h2 className="title">Your Trips</h2>
+    <section className='trips'>
+      <h2 className='title'>Your Trips</h2>
       <TripList orders={orders} />
     </section>
   );

@@ -20,6 +20,8 @@ async function query(filterBy) {
 }
 
 function buildCriteria(filterBy) {
+  console.log('filterBy:', filterBy);
+
   const criteria = {};
   if (filterBy.userId) {
     //if key user id
